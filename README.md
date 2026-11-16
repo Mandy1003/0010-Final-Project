@@ -2,7 +2,7 @@
 ### Team Name: Green Queens
 
 ### Team Members
-- Man Ching Li (mal922@pitt.edu) | FinalProject (air quality)
+- Man Ching Li (mal922@pitt.edu) |air quality
 - Rylie Loughran (rel198@pitt.edu) | playground and pools
 
 ### Dataset Links and Description
